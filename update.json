@@ -3,7 +3,7 @@
   "versionName": "1.3",
   "updateUrl": "https://t.me/...",
   "forceUpdate": false,
-  "minSupportedVersion": 1,
+  "minSupportedVersion": 2,
   "changelog": [
     "إضافة ميزة سجل التغييرات",
     "تحسين واجهة التحديث",
