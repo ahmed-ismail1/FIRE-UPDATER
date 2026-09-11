@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.2",
   "updateUrl": "https://t.me/+aQuEUv0xgngwYWNk",
   "forceUpdate": true,
-  "minSupportedVersion": 28,
+  "minSupportedVersion": 2,
   "changelog": [
     "تحديث أمني هام إجباري.",
     "إصلاح مشاكل تسجيل الدخول."
