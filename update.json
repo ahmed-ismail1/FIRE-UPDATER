@@ -1,11 +1,12 @@
 {
   "versionCode": 3,
-  "versionName": "1.2",
-  "updateUrl": "https://t.me/+aQuEUv0xgngwYWNk",
-  "forceUpdate": true,
-  "minSupportedVersion": 3,
+  "versionName": "1.3",
+  "updateUrl": "https://t.me/...",
+  "forceUpdate": false,
+  "minSupportedVersion": 1,
   "changelog": [
-    "تحديث هام .",
-    "إصلاح مشاكل تسجيل الدخول."
+    "إضافة ميزة سجل التغييرات",
+    "تحسين واجهة التحديث",
+    "إصلاح بعض الأخطاء"
   ]
 }
