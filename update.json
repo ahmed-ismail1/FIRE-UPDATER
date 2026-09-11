@@ -1,8 +1,8 @@
 {
   "versionCode": 3,
-  "versionName": "1.2",
+  "versionName": "1.3",
   "updateUrl": "https://t.me/+aQuEUv0xgngwYWNk",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "minSupportedVersion": 2,
   "changelog": [
     "تحديث أمني هام إجباري.",
