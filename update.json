@@ -1,8 +1,12 @@
+JSON
 {
   "versionCode": 2,
-  "versionName": "1.1",
+  "versionName": "1.2",
   "updateUrl": "https://t.me/+aQuEUv0xgngwYWNk",
+  "forceUpdate": true,
+  "minSupportedVersion": 2,
   "changelog": [
-    "تحسينات عامة لثبات التطبيق وأدائه."
+    "تحديث أمني هام إجباري.",
+    "إصلاح مشاكل تسجيل الدخول."
   ]
 }
