@@ -5,8 +5,13 @@
   "forceUpdate": false,
   "minSupportedVersion": 1,
   "changelog": [
-    "تحسينات عامه",
+    "تحسينات عامة",
     "تحسين واجهة التحديث",
     "إصلاح بعض الأخطاء"
+  ],
+  "changelogEn": [
+    "General improvements",
+    "Update UI enhancements",
+    "Bug fixes"
   ]
 }
