@@ -4,17 +4,17 @@
   "updateUrl": "https://github.com/ahmed-ismail1/HTI-App-Releases/releases/download/v1.2/HTI_v1.2.apk",
   "forceUpdate": false,
   "minSupportedVersion": 1,
+  "enableSiteCheck": true,
+  "enableNotificationSettings": true,
   "changelog": [
-    "تحسينات عامة",
-    "تحسين واجهة التحديث",
-    "إصلاح بعض الأخطاء"
-
-
-
+    "تحسينات عامة على استقرار النظام",
+    "تم اضافة نظام اشعارات للبرنامج",
+    "تم تحسين سرعه فحص الموقع",
+    ""
   ],
   "changelogEn": [
-    "General improvements",
-    "Update UI enhancements",
-    "Bug fixes"
+    "General system stability improvements",
+    "Added a notification system to the app",
+    "Improved website checking speed"
   ]
 }
