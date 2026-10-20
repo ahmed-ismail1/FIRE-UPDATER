@@ -1,20 +1,20 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.1",
-  "updateUrl": "https://github.com/ahmed-ismail1/HTI-App-Releases/releases/download/v1.2.1/HTI_v1.2.1.apk",
+  "versionCode": 4,
+  "versionName": "1.2.2",
+  "updateUrl": "https://github.com/ahmed-ismail1/HTI-App-Releases/releases/download/v1.2.2/HTI_v1.2.2.apk",
   "forceUpdate": false,
   "minSupportedVersion": 1,
   "enableSiteCheck": true,
   "enableNotificationSettings": true,
   "changelog": [
-    "تمت إضافة نظام إشعارات إلى التطبيق",
-    "تحسين فحص حالة الموقع وزيادة دقة وسرعة اكتشاف تغيّر الحالة",
     "تحسينات عامة على الأداء والاستقرار",
+    "تحسين دقة فحص حالة الموقع وتقليل التنبيهات الخاطئة.",
+    "",
     ""
   ],
   "changelogEn": [
-    "General system stability improvements",
-    "Added a notification system to the app",
-    "Improved website checking speed"
+    "General system stability improvements.",
+    "Improved website status checking accuracy and reduced unnecessary notifications.",
+    ""
   ]
 }
